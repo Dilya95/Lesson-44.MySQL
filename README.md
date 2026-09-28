@@ -24,13 +24,6 @@
 
 
 
-## Структура
-    ├── README.md
-    └── Vagrantfile
-
-
-
-
 ## Выполнение
 
 ### Я решила поднять MySQL на docker контейнерах с ОС Almalinux 9
